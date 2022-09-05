@@ -63,7 +63,7 @@ PyRect==0.1.4
 PyScreeze==0.1.28
 python-dateutil==2.7.5
 pytweening==1.0.4
-pywin32==301
+
 PyYAML==3.13
 pyzmq==22.1.0
 regex==2021.11.10
